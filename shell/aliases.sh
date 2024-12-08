@@ -35,6 +35,3 @@ alias up='dot package update_all'
 alias asd='cd ~/Code'
 alias cdc='cd ~/Code/personal'
 alias clera='clear'
-
-# alias vim='nvim'
-
