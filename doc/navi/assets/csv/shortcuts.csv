@@ -1,0 +1,70 @@
+short_name,shortcut_mac,type,description,name_idea,name_code,name_vim,shortcut_win
+Go to tests of class,  Cmd + P,general,"",Go to tests of class,-,,Alt + X
+Go to implementation,  Cmd + I,general,"",Go to implementation,editor.action.goToImplementation,,Ctrl + Alt + A
+Go to declaration or usages,  Cmd + U,general,"",Go to declaration or usages,editor.action.goToDeclaration,,Ctrl + Alt + X
+Move caret to matching brace,  Cmd + O,general,"",Move caret to matching brace,editor.action.jumpToBracket,,Ctrl + Shift + B
+Split down,  Cmd + Shift + D,general,"",Split down,workbench.action.splitEditorDown,,Ctrl + Alt   + D
+Split right,  Cmd + D,general,"",Split right,workbench.action.splitEditor,,Ctrl + Alt   + R
+Goto previous splitter,  Cmd + Opt + Left,general,"",Goto previous splitter,workbench.action.previousEditor,,Ctrl + Alt   + Left
+Goto next splitter,  Cmd + Opt + Right,general,"",Goto next splitter,workbench.action.nextEditor,,Ctrl + Alt   + Right
+Go to next caret position in history,  Cmd + ],general,"",Navigate -> Forward (Go to next caret position),workbench.action.navigateForward,,Alt  + Shift + Right
+Go to previous caret position in history,  Cmd + [,general,"",Navigate -> Back (Go to previous caret position),workbench.action.navigateBack,,Alt  + Shift + Left
+Stretch editor to left,  Cmd + Opt + Ctrl + Left,general,"",Stretch editor to left,workbench.action.decreaseViewWidth,,Ctrl + Alt   + Shift + Left
+Stretch editor to right,  Cmd + Opt + Ctrl + Right,general,"",Stretch editor to right,workbench.action.increaseViewWidth,,Ctrl + Alt   + Shift + Right
+Stretch editor to up,  Cmd + Opt + Ctrl + Up,general,"",Stretch editor to up,-,,Ctrl + Alt   + Shift + Up
+Stretch editor to down,  Cmd + Opt + Ctrl + Down,general,"",Stretch editor to down,-,,Ctrl + Alt   + Shift + Down
+List recent projects,  Ctrl + Cmd + Shift + E,general,"",Open Recent (refers to recent projects),workbench.action.openRecent,,Ctrl + Alt   + Shift + E
+Next occurrence of the word at caret,  Ctrl + Shift + Right,general,"",Next occurrence of the word at caret,editor.action.nextMatchFindAction,,Alt  + Right
+Previous occurrence of the word at caret,  Ctrl + Shift + Left,general,"",Previous occurrence of the word at caret,editor.action.previousMatchFindAction,,Alt + Left
+Close Tab,  Cmd + W,general,"",Close Tab,workbench.action.closeWindow,,Ctrl + W
+Paste copied text, Cmd + V,general,"",Paste copied text,editor.action.clipboardPasteAction,,Ctrl + V
+History of copied texts, Cmd + Shift + V,general,"",History of copied texts,multiclip.list,,Ctrl + Shift + V
+Delete line and copy, Cmd + X,general,"",Delete line and copy,editor.action.clipboardCutAction,,Ctrl + X
+Insert live template, Cmd + J,general,"",Insert live template,editor.action.showSnippets,,Ctrl + T
+Add Selection for Next Occurrence, Opt + D,general,"",Add Selection for Next Occurrence,editor.action.addSelectionToNextFindMatch,,Ctrl + D
+Editor Actions -> Column Selection Mode, Cmd + Opt + Ctrl + \,general,"",Editor Actions -> Column Selection Mode,-,,Alt + D
+Select all repeated words, Opt + Shift + D,general,"",Select all repeated words,selectAllSearchEditorMatches,,Ctrl + Shift + D
+Duplicate selection or line, Cmd + ',general,"",Duplicate selection or line,editor.action.duplicateSelection,,Alt  + Shift + D
+Save file, Cmd + S,general,"",Save all,workbench.action.files.save,,Ctrl + S
+Extend selection, Opt + Up,general,"",Extend selection,editor.action.smartSelect.expand,,Ctrl + Shift + S
+Presentation mode, Cmd + Opt + Ctrl + P,general,"",Presentation mode,extension.presentationMode,,Ctrl + Alt   + Shift + P
+Rollback..., Cmd + Shift + Z,general,"",Rollback...,-,,Alt  + Q
+VCS operations popup, Ctrl + Shift + K,general,"",VCS operations popup,-,,Ctrl + Alt   + Q
+New..., Cmd + N,general,"",New...,welcome.showNewFileEntries,,Ctrl + Shift + Q
+Create new package, Cmd + Shift + N,general,"",Create new package,explorer.newFolder,,Ctrl + N
+New scratch file (temporary notes), Ctrl + Opt + N,general,"",New scratch file (temporary notes),-,,Ctrl + Shift + N
+New project, Cmd + Opt + Ctrl + N,general,"",New project,-,,Ctrl + Alt   + Shift + N
+Search all, Shift + Shift,general,"",Search all,workbench.action.showCommands,,Ctrl + Alt   + Shift + Ins
+Go to Class..., Ctrl + 1,general,"",Go to Class...,workbench.action.showAllSymbols,,Ctrl + Alt   + N     + P
+Go to files..., Ctrl + 2,general,"",Go to files...,workbench.action.quickOpen,,Shift + Shift
+Go to symbols, Ctrl + 3,general,"",Go to symbols,-,,Ctrl + 2
+Find action..., Ctrl + 4,general,"",Find action...,-,,Ctrl + 3
+Show sutocomplete options, Ctrl + space,general,"",Show sutocomplete options,editor.action.triggerSuggest,,Ctrl + 4
+Parameter info, Ctrl + P,general,"",Parameter info,editor.action.triggerParameterHints,,Ctrl + 5
+View (toda la carpeta), Ctrl + Shift + P,general,"",View (toda la carpeta),-,,Ctrl + Space
+Refactor, Opt + Shift + R,general,"",Refactor,"editor.action.rename, renameFile",,Ctrl + P
+Replace in Files..., Cmd + Shift + R,general,"",Replace in Files...,workbench.action.replaceInFiles,,Ctrl + Shift + P
+Replace, Cmd + R,general,"",Replace,editor.action.startFindReplaceAction,,Alt   + Shift + R
+Show running app, Cmd + 2,general,"",Show running app,workbench.action.tasks.showTasks,,Ctrl  + R
+Show debug app, Cmd + 3,general,"",Show debug app,workbench.view.debug,,Alt  + 1
+Show maven, Cmd + 4,general,"",Show maven,-,,Alt  + 2
+Show spring, Cmd + 5,general,"",Show spring,-,,Alt  + 3
+Show databases, Cmd + 6,general,"",Show databases,-,,Alt  + 4
+Select file in project view, Cmd + Shift + 1,general,"",Select file in project view,workbench.files.action.showActiveFileInExplorer,,Alt  + 6
+Show terminal, Cmd + 8,general,"",Show terminal,workbench.action.terminal.toggleTerminal,,Alt  + 5
+Switch case format, Opt + [,general,"",Switch case format,-,,Alt  + 8
+Switch case format reverse order, Opt + ],general,"",Switch case format reverse order,-,,Ctrl + Alt   + Shift + D
+String manipulation..., Opt + M,general,"",String manipulation...,-,,Alt  + Shift  + M
+"Generate (constructor, getter, test)",Cmd + N (On editor),general,"","Generate (constructor, getter, test)",-,,Ctrl + Alt   + Shift + N
+Show Project Tree,Cmd + 1,general,,Tool Window -> Project,workbench.action.toggleSidebarVisibility,,Alt + 1
+Show Recent Files,Cmd + E,general,,Recent Files,workbench.action.showAllEditorsByMostRecentlyUsed,,Ctrl + E
+Show AWS toolkit,Cmd + 7,general,,,-
+Show file structure,Cmd + Shift + .,,,,-
+Show quick fixes,Cmd + .,general,,,Quick fix...,,-
+Apply first quick fix,Cmd + Opt + .,general,,,Auto fix...,,-
+Show refactor options,Ctrl + Shift + e,general,,,Refactor...,,-
+Show history of selected lines, Opt + K,general,"",Show history of selected lines,git.viewFileHistory,,""
+Git -> annotate, Ctrl + Opt + K,general,"",Git -> annotate,-,,""
+Show Git graph,Cmd + 9,general,,Tool Window -> Git,git.viewHistory,,Ctrl + Q
+Show git commit view,Cmd + Shift + k,general,,Commit...,Show Source Control,,Ctrl + Q
+"Show git branches (merge, compare, push, create branches)",Cmd + K,general,"","Show git branches (merge, compare, push, create branches)",git checkout,,Alt  + Q
