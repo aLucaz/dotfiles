@@ -65,12 +65,6 @@ case ":$PATH:" in
 esac
 # pnpm end
 
-# The next line updates PATH for the Google Cloud SDK.
-if [ -f '/Users/aLucaz/Downloads/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/aLucaz/Downloads/google-cloud-sdk/path.zsh.inc'; fi
-
-# The next line enables shell command completion for gcloud.
-if [ -f '/Users/aLucaz/Downloads/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/aLucaz/Downloads/google-cloud-sdk/completion.zsh.inc'; fi
-
 # Created by `pipx` on 2024-09-11 23:07:16
 export PATH="$PATH:/Users/aLucaz/.local/bin"
 
